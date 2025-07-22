@@ -36,11 +36,11 @@ This repository covers the fundamentals and practical aspects of Embedded System
 
 ## ✨ Highlights
 
-- Beginner-friendly explanation of embedded systems.
-- Full hands-on experience with Arduino hardware and software.
-- Real-world projects covering IoT, motor control, and sensor interfacing.
-- Introduction to basic VLSI concepts for future exploration.
-- Supports both simulation and hardware-based learning approaches.
+- ✅ Beginner-friendly explanation of embedded systems.
+- ✅ Full hands-on experience with Arduino hardware and software.
+- ✅ Real-world projects covering IoT, motor control, and sensor interfacing.
+- ✅ Introduction to basic VLSI concepts for future exploration.
+- ✅ Supports both simulation and hardware-based learning approaches.
 
 ---
 
